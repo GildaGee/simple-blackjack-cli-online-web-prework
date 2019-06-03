@@ -1,5 +1,5 @@
 def welcome
-  puts 
+  puts "Welcome to the blackjack table."
   # code #welcome here
 end
 
